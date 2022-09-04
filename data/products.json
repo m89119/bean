@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "little MO B plan",
+    "price": 749,      
+  },
+  {
+    "name": "little MO C plan",
+    "price": 899, 
+  }
+  {
+    "name": "little MO S plan",
+    "price": 1680, 
+  }
+]
